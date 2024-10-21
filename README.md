@@ -65,4 +65,4 @@ The application includes buttons to start and reset the test.
 - Provide more visual feedback during the test, such as highlighting errors in real-time.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GPL 3.0 License.
